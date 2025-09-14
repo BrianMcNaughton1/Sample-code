@@ -1,5 +1,5 @@
 /**********************************************************
- *  AUTHOR      : Brian McNaughton
+ *  AUTHOR      : E Brian McNaughton
  *  Assignment  : Final Project - Battleship
  *  CLASS       : CS002
  *  SECTION     : MTWTh 10:45a-12:50p
