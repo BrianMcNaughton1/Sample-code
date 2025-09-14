@@ -3,7 +3,7 @@
  *  Assignment  : Lab08 - Functions
  *  CLASS       : CS002
  *  SECTION     : MTWTh 10:45-12:50
- *  DUE DATE    : 4/12/20
+ *  DUE DATE    : 4/12/21
  *********************************************************/
 #include <iostream>
 #include <iomanip>
