@@ -3,7 +3,7 @@
  *  Assignment  : Final Project - Battleship
  *  CLASS       : CS002
  *  SECTION     : MTWTh 10:45a-12:50p
- *  DUE DATE    : 6/11/20
+ *  DUE DATE    : 6/11/21
  *********************************************************/
 #include <vector> 
 #include <iostream>
