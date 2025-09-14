@@ -4,7 +4,7 @@
  *  Assignment  : Hangman
  *  CLASS       : CS002
  *  SECTION     : MTWTh 10:45-12:50
- *  DUE DATE    : 4/24/20
+ *  DUE DATE    : 4/24/21
   *********************************************************/
 #include <iostream>
 #include <string>
