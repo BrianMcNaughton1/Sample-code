@@ -3,7 +3,7 @@
  *  Assignment  : Cipher
  *  CLASS       : CS002
  *  SECTION     : MTWTh 10:45-12:50
- *  DUE DATE    : 3/20/20
+ *  DUE DATE    : 3/20/21
  *********************************************************/
 #include <iostream>
 #include <string>
